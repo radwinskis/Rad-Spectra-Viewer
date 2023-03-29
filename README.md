@@ -4,7 +4,8 @@ The Rad Spectra Viewer, a Python based application to interactively view visible
 2) a downloadable folder containing a Windows .exe
 
 # Installation: 
-Either download and run the python file "Spectra_Viewer_Application.py" or download and extract the following folder to your folder of choice.
+Either download and run the python file "Spectra_Viewer_Application.py" or download and extract the following folder to your folder of choice:
+https://drive.google.com/file/d/1JsUpnjeeI-jkI5wTPaGzGYX5_kU_UXW6/view?usp=sharing
 
 # Functionality:
 - Opens and reads .csv files with data in columns, and the wavelength values in the first column. NOTE: the script expects wavelength in nanometers.
